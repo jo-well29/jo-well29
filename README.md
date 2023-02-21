@@ -1,5 +1,6 @@
 ### Hi, I'm Jowel 👋
 
+![Jowel](/image/Jowel.png)
 
 About me
 ---
